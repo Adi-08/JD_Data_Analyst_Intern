@@ -90,10 +90,10 @@ is_student = True
 
 ---
 
-## Jupyter Notebook
+## VScode
 - Used to write and run Python code step-by-step
 - Shows output immediately
-- Best suited for data analysis tasks
+
 
 ---
 
@@ -143,3 +143,6 @@ is_student = True
 
 ## Key Takeaway
 - Python basics and data structures form the foundation for data analysis, and practicing small tasks helps in understanding concepts better.
+
+## Reference Material
+- Python basics PPT provided during training (used with permission)
