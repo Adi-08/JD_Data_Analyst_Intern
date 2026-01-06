@@ -24,6 +24,20 @@
 ## Practice Examples
 - Simple calculator program
 
+## Task Given
+- Create a simple calculator using Python
+
+## Task Description
+- Take two numbers as input from the user
+- Ask the user to choose an operation
+- Perform the selected operation
+- Display the result
+
+## Learning from Task
+- Used variables and data types
+- Practiced input() and print()
+- Understood conditional statements
+
 
 ## Key Takeaway
 - Python is easy to read and powerful, which makes it very suitable for data analysis tasks.
